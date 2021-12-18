@@ -14,6 +14,11 @@ begin
 	using GLPK
 	using PrettyTables
 	using Plots
+	using CSV
+	using Optim
+	using Statistics
+	using LinearAlgebra
+	using Plots
 	
 	# setup my paths (where are my files?)
 	_PATH_TO_ROOT = pwd() 
