@@ -49,7 +49,7 @@ Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithac
 
 # ╔═╡ 251363ad-1927-4b05-99f5-8c3f2508c0cb
 md"""
-### 1. Introduction
+###  Introduction
 #
 """
 
@@ -444,7 +444,7 @@ end
 
 # ╔═╡ 83d9f5cd-3c6e-4b67-a64e-66775c2f163d
 md"""
-### 4. NPV Calculations (discount rate 1% and 10%):
+###  NPV Calculations (discount rate 1% and 10%):
 """
 
 # ╔═╡ a40ae36f-45fb-41ab-99e5-408108eb5816
@@ -547,7 +547,7 @@ Every year there is a loss of 7,417,577,547.55 USD which is less than a loss of 
 
 # ╔═╡ aa88be33-01bd-4ac6-8165-c613e9639533
 md"""
-### 6. NPV Calculations (For Alternative Solution, Discount Rates at 1% and 10%):
+### NPV Calculations (For Alternative Solution, Discount Rates at 1% and 10%):
 """
 
 # ╔═╡ 43f221a2-5a70-473b-882b-7184adb7c921
@@ -627,7 +627,7 @@ NPV10_alt = sum(PV10_alt)
 
 # ╔═╡ fd339470-ffef-49fa-8636-dce7924e6405
 md"""
-### 7. Conclusions
+###  Conclusions
 """
 
 # ╔═╡ 058fdb05-627e-4586-825c-ad0a071ee0d5
