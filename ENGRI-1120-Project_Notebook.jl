@@ -38,7 +38,7 @@ md"""
 
 # ╔═╡ 833d7250-f4ab-49a2-a43e-1b21def59ad4
 html"""
-<p style="font-size:20px;">Team name: Yifei Hu, Sophia Baik, Anne Liu </br>
+<p style="font-size:20px;">Team name: Yifei Hu, Sophia Baik, Anne Liu (Team YAS) </br>
 Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca NY 14850</p>
 """
 
